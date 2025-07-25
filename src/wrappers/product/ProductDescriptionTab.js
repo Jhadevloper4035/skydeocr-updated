@@ -25,32 +25,29 @@ const ProductDescriptionTab = ({ spaceBottomClass, productFullDesc }) => {
               <Tab.Pane eventKey="additionalInfo">
                 <div className="product-anotherinfo-wrapper">
                   <ul>
-                    <li>
-                      <span> Product Category </span> 400 g
-                    </li>
-                    <li>
-                      <span>Design Number</span>10 x 10 x 15 cm{" "}
-                    </li>
-                    <li>
-                      <span>Finish Name</span> 60% cotton, 40% polyester
-                    </li>
-                    <li>
-                      <span>Thickness (mm) </span> American heirloom jean shorts
-                      pug seitan letterpress
-                    </li>
+  <li>
+    <span>Product Category</span> Laminate Sheet
+  </li>
+  <li>
+    <span>Design Number</span> LAM-1234
+  </li>
+  <li>
+    <span>Finish Name</span> Matte Finish
+  </li>
+  <li>
+    <span>Thickness (mm)</span> 0.8 mm
+  </li>
+  <li>
+    <span>Dimension (mm)</span> 2440 x 1220 mm
+  </li>
+  <li>
+    <span>Dimension (ft)</span> 8 x 4 ft
+  </li>
+  <li>
+    <span>Weight</span> 4.5 kg (approx)
+  </li>
+</ul>
 
-                    <li>
-                      <span>Finish Name</span> 60% cotton, 40% polyester
-                    </li>
-
-                    <li>
-                      <span>Dimension (mm)</span> 60% cotton, 40% polyester
-                    </li>
-
-                    <li>
-                      <span>Dimension (ft)</span> 60% cotton, 40% polyester
-                    </li>
-                  </ul>
                 </div>
               </Tab.Pane>
               <Tab.Pane eventKey="productDescription">
