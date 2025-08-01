@@ -3,7 +3,7 @@ import clsx from "clsx";
 import Tab from "react-bootstrap/Tab";
 import Nav from "react-bootstrap/Nav";
 
-const ProductDescriptionTab = ({ spaceBottomClass, productFullDesc }) => {
+const ProductDescriptionTab = ({ product, spaceBottomClass, productFullDesc }) => {
   return (
     <div className={clsx("description-review-area", spaceBottomClass)}>
       <div className="container">
@@ -25,30 +25,36 @@ const ProductDescriptionTab = ({ spaceBottomClass, productFullDesc }) => {
               <Tab.Pane eventKey="additionalInfo">
                 <div className="product-anotherinfo-wrapper">
                   <ul>
-  <li>
-    <span>Product Category</span> Laminate Sheet
-  </li>
-  <li>
-    <span>Design Number</span> LAM-1234
-  </li>
-  <li>
-    <span>Finish Name</span> Matte Finish
-  </li>
-  <li>
-    <span>Thickness (mm)</span> 0.8 mm
-  </li>
-  <li>
-    <span>Dimension (mm)</span> 2440 x 1220 mm
-  </li>
-  <li>
-    <span>Dimension (ft)</span> 8 x 4 ft
-  </li>
-  <li>
-    <span>Weight</span> 4.5 kg (approx)
-  </li>
-</ul>
 
+                    <li>
+                      <span>Product Code </span> {product?.sku || 'N/A'}
+                    </li>
+                    <li>
+                      <span>Product Category</span> {product?.category?.join(', ') || 'N/A'}
+                    </li>
+                    <li>
+                      <span>Product Sub Category</span> {product?.subCategory?.join(', ') || 'N/A'}
+                    </li>
+                
+                    <li>
+                      <span> Product  Finish </span> {product?.finish?.join(', ') || 'N/A'}
+                    </li>
+                    <li>
+                      <span>Thickness (mm)</span> {product?.thickness || 'N/A'}
+                    </li>
+          
+                    <li>
+                      <span>Dimension (ft)</span> {product?.size || 'N/A'}
+                    </li>
+                    <li>
+                      <span>Weight (MM) </span> {product?.width|| 'N/A'}
+                    </li>
+                  
+                  
+
+                  </ul>
                 </div>
+
               </Tab.Pane>
               <Tab.Pane eventKey="productDescription">
                 {productFullDesc}

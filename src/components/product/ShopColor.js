@@ -1,5 +1,4 @@
 import PropTypes from "prop-types";
-
 import { setActiveSort } from "../../helpers/product";
 
 const ShopColor = ({ colors, getSortParams }) => {

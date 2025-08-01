@@ -1,8 +1,7 @@
 import PropTypes from "prop-types";
-
 import { setActiveSort } from "../../helpers/product";
 
-console.log(setActiveSort)
+
 
 const ShopCategories = ({ categories, getSortParams }) => {
   return (

@@ -80,6 +80,13 @@ export const getSortedProducts = (products, sortType, sortValue) => {
         product => product.tag.filter(single => single === sortValue)[0]
       );
     }
+
+    if (sortType === "finish") {
+      return products.filter(
+        product => product.finish.filter(single => single === sortValue)[0]
+      );
+    }
+
     if (sortType === "color") {
       return products.filter(
         product =>
@@ -158,6 +165,32 @@ export const getIndividualTags = products => {
   return individualProductTags;
 };
 
+
+export const getIndividualFinish = products => {
+  let productFinish = [];
+  products &&
+    products.map(product => {
+      return (
+        product.finish &&
+        product.finish.map(single => {
+          console.log("single", single);
+          return productFinish.push(single);
+        })
+      );
+    });
+
+
+  const individualProductFinish = getIndividualItemArray(productFinish);
+  return individualProductFinish;
+};
+
+
+
+
+
+
+
+
 // get individual colors
 export const getIndividualColors = products => {
   let productColors = [];
@@ -217,6 +250,7 @@ export const setActiveSort = e => {
   });
   e.currentTarget.classList.add("active");
 };
+
 
 export const setActiveLayout = e => {
   const gridSwitchBtn = document.querySelectorAll(".shop-tab button");

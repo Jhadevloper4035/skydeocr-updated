@@ -18,8 +18,8 @@ const styles = StyleSheet.create({
     marginBottom: 10,
   },
   image: {
-    width: 100,
-    height: 600,
+    width: 250,
+    height: 500,
     objectFit: "cover",
     marginBottom: 10,
   },
@@ -52,50 +52,62 @@ const styles = StyleSheet.create({
   },
 });
 
-const ProductPDF = ({ product }) => (
+const ProductPDF = ({ product , base64Image}) => (
   <Document>
-    <Page size="A4" style={styles.page}>
-      <Image src={product.image[0]} style={styles.image} />
+   <Page size="A4" style={styles.page}>
+  {/* Product Image */}
+  {product?.image?.[0] && <Image src={base64Image} style={styles.image} />}
 
-      <View style={styles.section}>
-        <Text style={styles.subtitle}>Product Name </Text>
-        <Text style={styles.title}> {product.category[0]} - {product.tag[0]} - {product.name}</Text>
-      </View>
+  {/* Product Name Section */}
+  <View style={styles.section}>
+    <Text style={styles.subtitle}>Product Name</Text>
+    <Text style={styles.title}>
+      {product.category?.[0] || 'N/A'} - {product.tag?.[0] || 'N/A'} - {product.name || 'N/A'}
+    </Text>
+  </View>
 
-      <View style={styles.table}>
-        <View style={styles.row}>
-          <Text style={styles.cellLabel}>Product Category:</Text>
-          <Text style={styles.cellValue}>{product.category[0]}</Text>
-        </View>
-        <View style={styles.row}>
-          <Text style={styles.cellLabel}>Product Finish:</Text>
-          <Text style={styles.cellValue}>{product.tag[0]}</Text>
-        </View>
+  {/* Product Details Table */}
+  <View style={styles.table}>
 
-        <View style={styles.row}>
-          <Text style={styles.cellLabel}>Design Number:</Text>
-          <Text style={styles.cellValue}>10 x 10 x 15 cm</Text>
-        </View>
-        <View style={styles.row}>
-          <Text style={styles.cellLabel}>Finish Name:</Text>
-          <Text style={styles.cellValue}>60% cotton, 40% polyester</Text>
-        </View>
-        <View style={styles.row}>
-          <Text style={styles.cellLabel}>Thickness (mm):</Text>
-          <Text style={styles.cellValue}>
-            American heirloom jean shorts pug selian letterpress
-          </Text>
-        </View>
-        <View style={styles.row}>
-          <Text style={styles.cellLabel}>Dimension (mm):</Text>
-          <Text style={styles.cellValue}>60% cotton, 40% polyester</Text>
-        </View>
-        <View style={styles.row}>
-          <Text style={styles.cellLabel}>Dimension (ft):</Text>
-          <Text style={styles.cellValue}>60% cotton, 40% polyester</Text>
-        </View>
-      </View>
-    </Page>
+    <View style={styles.row}>
+      <Text style={styles.cellLabel}>Product Code :</Text>
+      <Text style={styles.cellValue}>{product.sku || 'N/A'}</Text>
+    </View>
+
+    <View style={styles.row}>
+      <Text style={styles.cellLabel}>Product Category :</Text>
+      <Text style={styles.cellValue}>{product.category?.join(', ') || 'N/A'}</Text>
+    </View>
+
+    <View style={styles.row}>
+      <Text style={styles.cellLabel}>Product Sub Category :</Text>
+      <Text style={styles.cellValue}>{product.subCategory?.join(', ') || 'N/A'}</Text>
+    </View>
+
+    <View style={styles.row}>
+      <Text style={styles.cellLabel}>Product Finish :</Text>
+      <Text style={styles.cellValue}>{product.finish?.join(', ') || 'N/A'}</Text>
+    </View>
+
+    <View style={styles.row}>
+      <Text style={styles.cellLabel}>Thickness (mm):</Text>
+      <Text style={styles.cellValue}>{product.thickness || 'N/A'}</Text>
+    </View>
+
+    <View style={styles.row}>
+      <Text style={styles.cellLabel}>Product Dimension (ft):</Text>
+      <Text style={styles.cellValue}>{product.size || 'N/A'}</Text>
+    </View>
+
+    <View style={styles.row}>
+      <Text style={styles.cellLabel}>Weight (mm):</Text>
+      <Text style={styles.cellValue}>{product.width?.trim() || 'N/A'}</Text>
+    </View>
+
+
+  </View>
+</Page>
+
   </Document>
 );
 

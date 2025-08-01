@@ -5,7 +5,7 @@ import { setActiveSort } from "../../helpers/product";
 const ShopTag = ({ tags, getSortParams }) => {
   return (
     <div className="sidebar-widget mt-50">
-      <h4 className="pro-sidebar-title"> Finish </h4>
+      <h4 className="pro-sidebar-title"> Product Sub category </h4>
       <div className="sidebar-widget-list mt-25">
         {tags ? (
           <ul>
