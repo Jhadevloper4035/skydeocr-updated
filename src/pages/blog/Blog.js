@@ -14,6 +14,7 @@ const BlogNoSidebar = () => {
         titleTemplate="Blog"
         description="Blog of flone react minimalist eCommerce template."
       />
+
       <LayoutOne headerTop="visible">
         {/* breadcrumb */}
         <Breadcrumb 
@@ -22,6 +23,7 @@ const BlogNoSidebar = () => {
             {label: "Blog", path: process.env.PUBLIC_URL + pathname }
           ]} 
         />
+        
         <div className="blog-area pt-100 pb-100 blog-no-sidebar">
           <div className="container">
             <div className="row">

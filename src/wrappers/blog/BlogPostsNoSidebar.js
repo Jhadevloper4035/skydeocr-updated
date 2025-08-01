@@ -34,8 +34,8 @@ const BlogPostsNoSidebar = () => {
               <p>
                 {blog.text
                   .replace(/<[^>]+>/g, "")
-                  .split(/\s+/)            // split into words
-                  .slice(0, 23)           // get first 100 words
+                  .split(/\s+/)
+                  .slice(0, 23)
                   .join(" ") + "..."}
               </p>
               <div className="blog-share-comment">
@@ -43,8 +43,8 @@ const BlogPostsNoSidebar = () => {
                   <Link to={`/blogdetail/${blog.url}`}>read more</Link>
                 </div>
                 <div className="blog-share">
-                  <span>share :</span>
-                  <div className="share-social">
+                   {/* { <span>share :</span>
+                  <div className="share-social"> 
                     <ul>
                       <li>
                         <a
@@ -77,7 +77,7 @@ const BlogPostsNoSidebar = () => {
                         </a>
                       </li>
                     </ul>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>

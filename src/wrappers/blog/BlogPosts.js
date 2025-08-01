@@ -41,7 +41,7 @@ const BlogPosts = () => {
                 </Link>
               </div>
               <div className="blog-share">
-                <span>share :</span>
+              
                 <div className="share-social">
                   <ul>
                     <li>
