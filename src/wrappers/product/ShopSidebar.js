@@ -3,54 +3,39 @@ import clsx from "clsx";
 import {
   getIndividualCategories,
   getIndividualTags,
-  getIndividualColors,
-  getProductsIndividualSizes,
   getIndividualFinish,
 } from "../../helpers/product";
 
 import ShopSearch from "../../components/product/ShopSearch";
 import ShopCategories from "../../components/product/ShopCategories";
-// import ShopColor from "../../components/product/ShopColor";
-// import ShopSize from "../../components/product/ShopSize";
 import ShopTag from "../../components/product/ShopTag";
 import ShopFinish from "../../components/product/ShopFinish";
 
-
-
-const ShopSidebar = ({ products, getSortParams, sideSpaceClass, filterdProducts }) => {
-
+const ShopSidebar = ({ products, getSortParams, sideSpaceClass }) => {
   const uniqueCategories = getIndividualCategories(products);
-  // const uniqueColors = getIndividualColors(products);
-  // const uniqueSizes = getProductsIndividualSizes(products);
   const uniqueTags = getIndividualTags(products);
-  const uniqueFinihes = getIndividualFinish(products);
-
-
+  const uniqueFinishes = getIndividualFinish(products);
 
   return (
     <div className={clsx("sidebar-style", sideSpaceClass)}>
-      {/* shop search */}
+      {/* Search */}
       <ShopSearch />
 
-      {/* filter by categories */}
+      {/* Categories */}
       <ShopCategories categories={uniqueCategories} getSortParams={getSortParams} />
 
-      {/* filter by tag */}
+      {/* Tags */}
       <ShopTag tags={uniqueTags} getSortParams={getSortParams} />
 
-      <ShopFinish finishs={uniqueFinihes} getSortParams={getSortParams} />
-
-      {/* <ShopColor colors={uniqueColors} getSortParams={getSortParams} /> */}
-
-      {/* filter by size */}
-      {/* <ShopSize sizes={uniqueSizes} getSortParams={getSortParams} /> */}
+      {/* Finish */}
+      <ShopFinish finishs={uniqueFinishes} getSortParams={getSortParams} />
     </div>
   );
 };
 
 ShopSidebar.propTypes = {
   getSortParams: PropTypes.func,
-  products: PropTypes.array,
+  products: PropTypes.array.isRequired,
   sideSpaceClass: PropTypes.string,
 };
 

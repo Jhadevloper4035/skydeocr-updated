@@ -101,7 +101,7 @@ const App = () => {
             />
 
             <Route
-              path={process.env.PUBLIC_URL + "/blog-details-standard"}
+              path={process.env.PUBLIC_URL + "/blogdetail/:slug"}
               element={<BlogDetails />}
             />
 

@@ -21,8 +21,9 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
           </li>
 
           <li>
-            <Link to={process.env.PUBLIC_URL + "/"}>{t("About")}</Link>
+            <Link to={process.env.PUBLIC_URL + "/about"}>{t("About")}</Link>
           </li>
+
 
           <li>
             <Link to={process.env.PUBLIC_URL + "/all-product"}>
@@ -41,226 +42,96 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
                 <ul>
                   <li className="mega-menu-title">
                     <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
-                      {t("shop_layout")}
+                      {t("1 MM Laminates")}
                     </Link>
                   </li>
                   <li>
                     <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
-                      {t("shop_grid_standard")}
+                      {t("Abstract Laminates")}
                     </Link>
                   </li>
                   <li>
                     <Link to={process.env.PUBLIC_URL + "/shop-grid-filter"}>
-                      {t("shop_grid_filter")}
+                      {t("Solid Laminates")}
                     </Link>
                   </li>
                   <li>
                     <Link to={process.env.PUBLIC_URL + "/shop-grid-two-column"}>
-                      {t("shop_grid_two_column")}
+                      {t("Stone Laminates")}
                     </Link>
                   </li>
                   <li>
                     <Link to={process.env.PUBLIC_URL + "/shop-grid-no-sidebar"}>
-                      {t("shop_grid_no_sidebar")}
+                      {t(" Woodgrain Laminates")}
                     </Link>
                   </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/shop-grid-full-width"}>
-                      {t("shop_grid_full_width")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      to={process.env.PUBLIC_URL + "/shop-grid-right-sidebar"}
-                    >
-                      {t("shop_grid_right_sidebar")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/shop-list-standard"}>
-                      {t("shop_list_standard")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/shop-list-full-width"}>
-                      {t("shop_list_full_width")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/shop-list-two-column"}>
-                      {t("shop_list_two_column")}
-                    </Link>
-                  </li>
+                  
                 </ul>
               </li>
+
+
               <li>
                 <ul>
                   <li className="mega-menu-title">
                     <Link to={process.env.PUBLIC_URL + "/product/1"}>
-                      {t("product_details")}
+                      {t("0.8 MM Laminates")}
+                    </Link>
+                  </li>
+
+                  <li>
+                    <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
+                      {t("Abstract Laminates")}
                     </Link>
                   </li>
                   <li>
-                    <Link to={process.env.PUBLIC_URL + "/product/1"}>
-                      {t("product_tab_bottom")}
+                    <Link to={process.env.PUBLIC_URL + "/shop-grid-filter"}>
+                      {t("Solid Laminates")}
                     </Link>
                   </li>
                   <li>
-                    <Link to={process.env.PUBLIC_URL + "/product-tab-left/1"}>
-                      {t("product_tab_left")}
+                    <Link to={process.env.PUBLIC_URL + "/shop-grid-two-column"}>
+                      {t("Stone Laminates")}
                     </Link>
                   </li>
                   <li>
-                    <Link to={process.env.PUBLIC_URL + "/product-tab-right/1"}>
-                      {t("product_tab_right")}
+                    <Link to={process.env.PUBLIC_URL + "/shop-grid-no-sidebar"}>
+                      {t(" Woodgrain Laminates")}
                     </Link>
                   </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product-sticky/1"}>
-                      {t("product_sticky")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product-slider/1"}>
-                      {t("product_slider")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      to={process.env.PUBLIC_URL + "/product-fixed-image/1"}
-                    >
-                      {t("product_fixed_image")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product/8"}>
-                      {t("product_simple")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product/1"}>
-                      {t("product_variation")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product/9"}>
-                      {t("product_affiliate")}
-                    </Link>
-                  </li>
+                 
+                  
                 </ul>
               </li>
 
+              
                <li>
                 <ul>
                   <li className="mega-menu-title">
                     <Link to={process.env.PUBLIC_URL + "/product/1"}>
-                      {t("product_details")}
+                      {t("Liner Laminates")}
                     </Link>
                   </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product/1"}>
-                      {t("product_tab_bottom")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product-tab-left/1"}>
-                      {t("product_tab_left")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product-tab-right/1"}>
-                      {t("product_tab_right")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product-sticky/1"}>
-                      {t("product_sticky")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product-slider/1"}>
-                      {t("product_slider")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      to={process.env.PUBLIC_URL + "/product-fixed-image/1"}
-                    >
-                      {t("product_fixed_image")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product/8"}>
-                      {t("product_simple")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product/1"}>
-                      {t("product_variation")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product/9"}>
-                      {t("product_affiliate")}
-                    </Link>
-                  </li>
-                </ul>
-              </li>
 
-               <li>
-                <ul>
-                  <li className="mega-menu-title">
-                    <Link to={process.env.PUBLIC_URL + "/product/1"}>
-                      {t("product_details")}
-                    </Link>
-                  </li>
                   <li>
                     <Link to={process.env.PUBLIC_URL + "/product/1"}>
-                      {t("product_tab_bottom")}
+                      {t("Fabric ")}
                     </Link>
                   </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product-tab-left/1"}>
-                      {t("product_tab_left")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product-tab-right/1"}>
-                      {t("product_tab_right")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product-sticky/1"}>
-                      {t("product_sticky")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product-slider/1"}>
-                      {t("product_slider")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      to={process.env.PUBLIC_URL + "/product-fixed-image/1"}
-                    >
-                      {t("product_fixed_image")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product/8"}>
-                      {t("product_simple")}
-                    </Link>
-                  </li>
-                  <li>
+
+                   <li>
                     <Link to={process.env.PUBLIC_URL + "/product/1"}>
-                      {t("product_variation")}
+                      {t("Solid")}
                     </Link>
                   </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product/9"}>
-                      {t("product_affiliate")}
+
+
+                   <li>
+                    <Link to={process.env.PUBLIC_URL + "/product/1"}>
+                      {t("Woodgrain ")}
                     </Link>
                   </li>
+                  
+                 
                 </ul>
               </li>
 
@@ -269,56 +140,39 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
                 <ul>
                   <li className="mega-menu-title">
                     <Link to={process.env.PUBLIC_URL + "/product/1"}>
-                      {t("product_details")}
+                      {t("Acrylic Laminates")}
+                    </Link>
+                  </li>
+
+                     <li>
+                    <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
+                      {t("Abstract Laminates")}
                     </Link>
                   </li>
                   <li>
-                    <Link to={process.env.PUBLIC_URL + "/product/1"}>
-                      {t("product_tab_bottom")}
+                    <Link to={process.env.PUBLIC_URL + "/shop-grid-filter"}>
+                      {t("Solid Laminates")}
+                    </Link>
+                  </li>
+
+                   <li>
+                    <Link to={process.env.PUBLIC_URL + "/shop-grid-filter"}>
+                      {t("Plain Laminates")}
+                    </Link>
+                  </li>
+
+                  <li>
+                    <Link to={process.env.PUBLIC_URL + "/shop-grid-two-column"}>
+                      {t("Stone Laminates")}
                     </Link>
                   </li>
                   <li>
-                    <Link to={process.env.PUBLIC_URL + "/product-tab-left/1"}>
-                      {t("product_tab_left")}
+                    <Link to={process.env.PUBLIC_URL + "/shop-grid-no-sidebar"}>
+                      {t(" Woodgrain Laminates")}
                     </Link>
                   </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product-tab-right/1"}>
-                      {t("product_tab_right")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product-sticky/1"}>
-                      {t("product_sticky")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product-slider/1"}>
-                      {t("product_slider")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      to={process.env.PUBLIC_URL + "/product-fixed-image/1"}
-                    >
-                      {t("product_fixed_image")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product/8"}>
-                      {t("product_simple")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product/1"}>
-                      {t("product_variation")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product/9"}>
-                      {t("product_affiliate")}
-                    </Link>
-                  </li>
+
+                
                 </ul>
               </li>
 
@@ -326,74 +180,87 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
                 <ul>
                   <li className="mega-menu-title">
                     <Link to={process.env.PUBLIC_URL + "/product/1"}>
-                      {t("product_details")}
+                      {t("PVC Range Laminate")}
+                    </Link>
+                  </li>
+
+                    <li>
+                    <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
+                      {t("Abstract Laminates")}
+                    </Link>
+                  </li>
+
+                   <li>
+                    <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
+                      {t("Leather Laminates")}
+                    </Link>
+                  </li>
+
+                     <li>
+                    <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
+                      {t("Metalic Laminates")}
+                    </Link>
+                  </li>
+
+
+                    <li>
+                    <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
+                      {t("Metalic High Gloss")}
+                    </Link>
+                  </li>
+
+                  <li>
+                    <Link to={process.env.PUBLIC_URL + "/shop-grid-filter"}>
+                      {t("Solid Laminates")}
+                    </Link>
+                  </li>
+
+                  <li>
+                    <Link to={process.env.PUBLIC_URL + "/shop-grid-two-column"}>
+                      {t("Stone Laminates")}
                     </Link>
                   </li>
                   <li>
-                    <Link to={process.env.PUBLIC_URL + "/product/1"}>
-                      {t("product_tab_bottom")}
+                    <Link to={process.env.PUBLIC_URL + "/shop-grid-no-sidebar"}>
+                      {t(" Wood Laminates")}
                     </Link>
                   </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product-tab-left/1"}>
-                      {t("product_tab_left")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product-tab-right/1"}>
-                      {t("product_tab_right")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product-sticky/1"}>
-                      {t("product_sticky")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product-slider/1"}>
-                      {t("product_slider")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      to={process.env.PUBLIC_URL + "/product-fixed-image/1"}
-                    >
-                      {t("product_fixed_image")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product/8"}>
-                      {t("product_simple")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product/1"}>
-                      {t("product_variation")}
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/product/9"}>
-                      {t("product_affiliate")}
-                    </Link>
-                  </li>
+
+
+                
                 </ul>
               </li>
 
-              <li>
+
+                 <li>
                 <ul>
-                  <li className="mega-menu-img">
-                    <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
-                      <img
-                        src={
-                          process.env.PUBLIC_URL +
-                          "/assets/img/banner/banner-12.png"
-                        }
-                        alt=""
-                      />
+                  <li className="mega-menu-title">
+                    <Link to={process.env.PUBLIC_URL + "/product/1"}>
+                      {t("Sofitto Panels")}
                     </Link>
                   </li>
+
+                  <li>
+                    <Link to={process.env.PUBLIC_URL + "/product/1"}>
+                      {t("Groovex")}
+                    </Link>
+                  </li>
+
+                  <li>
+                    <Link to={process.env.PUBLIC_URL + "/product/1"}>
+                      {t("Verto")}
+                    </Link>
+                  </li>
+
+                   <li>
+                    <Link to={process.env.PUBLIC_URL + "/product/1"}>
+                      {t("SoftLine")}
+                    </Link>
+                  </li>
+                
                 </ul>
               </li>
+
             </ul> 
           </li>
 
@@ -417,7 +284,7 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
               </li>
 
               <li>
-                <Link to={process.env.PUBLIC_URL + "/"}>{t("Blog")}</Link>
+                <Link to={process.env.PUBLIC_URL + "/blog"}>{t("Blog")}</Link>
               </li>
             </ul>
           </li>

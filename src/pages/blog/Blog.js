@@ -3,7 +3,6 @@ import { useLocation } from "react-router-dom";
 import SEO from "../../components/seo";
 import LayoutOne from "../../layouts/LayoutOne";
 import Breadcrumb from "../../wrappers/breadcrumb/Breadcrumb";
-import BlogPagination from "../../wrappers/blog/BlogPagination";
 import BlogPostsNoSidebar from "../../wrappers/blog/BlogPostsNoSidebar";
 
 const BlogNoSidebar = () => {
@@ -33,8 +32,7 @@ const BlogNoSidebar = () => {
                     <BlogPostsNoSidebar />
                   </div>
 
-                  {/* blog pagination */}
-                  <BlogPagination />
+                
                 </div>
               </div>
             </div>
