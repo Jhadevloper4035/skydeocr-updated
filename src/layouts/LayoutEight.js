@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 import React, { Fragment } from "react";
 import HeaderOne from "../wrappers/header/HeaderOne";
-import FooterOne from "../wrappers/footer/FooterFour";
+import FooterOne from "../wrappers/footer/FooterThree";
 import ScrollToTop from "../components/scroll-to-top";
 
 const LayoutEight = ({

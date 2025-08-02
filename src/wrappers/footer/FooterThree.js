@@ -2,7 +2,7 @@ import PropTypes from "prop-types";
 import clsx from "clsx";
 import { Link } from "react-router-dom";
 import FooterCopyright from "../../components/footer/FooterCopyright";
-import FooterNewsletter from "../../components/footer/FooterNewsletter";
+// import FooterNewsletter from "../../components/footer/FooterNewsletter";
 
 const FooterThree = ({
   backgroundColorClass,
@@ -14,73 +14,105 @@ const FooterThree = ({
       <div className="container">
         <div className="footer-border pt-100">
           <div className="row">
-            <div className="col-lg-2 col-sm-4">
+            <div className="col-lg-3 col-sm-4">
               {/* footer copyright */}
               <FooterCopyright
                 footerLogo="/assets/img/logo/logo.png"
                 spaceBottomClass="mb-30"
               />
             </div>
-            <div className="col-lg-2 col-md-4 col-sm-4">
+            <div className="col-lg-3 col-md-4 col-sm-4">
+
               <div className="footer-widget mb-30 ml-30">
                 <div className="footer-title">
-                  <h3>ABOUT US</h3>
+                  <h3 style={{ color: "#fff" }}>CATEGORIES</h3>
                 </div>
                 <div className="footer-list">
                   <ul>
                     <li>
                       <Link to={process.env.PUBLIC_URL + "/about"}>
-                        About us
+                        1 MM Laminates
                       </Link>
                     </li>
                     <li>
                       <Link to={process.env.PUBLIC_URL + "#/"}>
-                        Store location
+                        0.8 MM Laminates
                       </Link>
                     </li>
                     <li>
                       <Link to={process.env.PUBLIC_URL + "/contact"}>
-                        Contact
+                        Liner Laminates
                       </Link>
                     </li>
                     <li>
                       <Link to={process.env.PUBLIC_URL + "#/"}>
-                        Orders tracking
+                        Acrylic Laminates
                       </Link>
                     </li>
+                    <li>
+                      <Link to={process.env.PUBLIC_URL + "#/"}>
+                        PVC Range Laminate
+                      </Link>
+                    </li>
+
+                    <li>
+                      <Link to={process.env.PUBLIC_URL + "#/"}>
+                        Sofitto Panels
+                      </Link>
+                    </li>
+
                   </ul>
                 </div>
               </div>
             </div>
-            <div className="col-lg-2 col-md-4 col-sm-4">
+
+            <div className="col-lg-3 col-md-4 col-sm-4">
               <div className="footer-widget mb-30 ml-50">
                 <div className="footer-title">
-                  <h3>USEFUL LINKS</h3>
+                  <h3 style={{ color: "#fff" }}>OUR COMPANY</h3>
                 </div>
                 <div className="footer-list">
                   <ul>
-                    <li>
-                      <Link to={process.env.PUBLIC_URL + "#/"}>Returns</Link>
-                    </li>
+
                     <li>
                       <Link to={process.env.PUBLIC_URL + "#/"}>
-                        Support Policy
+                        Home
                       </Link>
                     </li>
+
                     <li>
-                      <Link to={process.env.PUBLIC_URL + "#/"}>Size guide</Link>
+                      <Link to={process.env.PUBLIC_URL + "#/"}>About </Link>
                     </li>
+
                     <li>
-                      <Link to={process.env.PUBLIC_URL + "#/"}>FAQs</Link>
+                      <Link to={process.env.PUBLIC_URL + "#/"}> Events </Link>
                     </li>
+
+                    <li>
+                      <Link to={process.env.PUBLIC_URL + "#/"}> Blog</Link>
+                    </li>
+
+                    <li>
+                      <Link to={process.env.PUBLIC_URL + "#/"}> Career  </Link>
+                    </li>
+
+                    <li>
+                      <Link to={process.env.PUBLIC_URL + "#/"}> Experince Center  </Link>
+                    </li>
+
+
+                    <li>
+                      <Link to={process.env.PUBLIC_URL + "#/"}> Contact  </Link>
+                    </li>
+
                   </ul>
                 </div>
               </div>
             </div>
-            <div className="col-lg-2 col-md-6 col-sm-6">
+            <div className="col-lg-3 col-md-6 col-sm-6">
               <div className="footer-widget mb-30 ml-75">
                 <div className="footer-title">
-                  <h3>FOLLOW US</h3>
+                  <h3 style={{ color: "#fff" }} >APPLICATIONS </h3>
                 </div>
                 <div className="footer-list">
                   <ul>
@@ -90,7 +122,8 @@ const FooterThree = ({
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        Facebook
+                        Bedroom
+
                       </a>
                     </li>
                     <li>
@@ -99,7 +132,7 @@ const FooterThree = ({
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        Twitter
+                        Bedroom
                       </a>
                     </li>
                     <li>
@@ -108,7 +141,7 @@ const FooterThree = ({
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        Instagram
+                        Kids Room
                       </a>
                     </li>
                     <li>
@@ -117,19 +150,54 @@ const FooterThree = ({
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        Youtube
+                        Office
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="//www.youtube.com"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        Living Room
+
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="//www.youtube.com"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        Kitchen
+                      </a>
+                    </li>
+
+
+                    <li>
+                      <a
+                        href="//www.youtube.com"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        Wardrobs
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        href="//www.youtube.com"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        TV Unit
                       </a>
                     </li>
                   </ul>
                 </div>
               </div>
-            </div>
-            <div className="col-lg-4 col-sm-6">
-              {/* footer newsletter */}
-              <FooterNewsletter
-                spaceBottomClass="mb-30"
-                spaceLeftClass="ml-70"
-              />
             </div>
           </div>
         </div>
