@@ -1,12 +1,10 @@
 import { Fragment } from "react";
-import { useLocation } from "react-router-dom"; 
 import SEO from "../../components/seo";
 import LayoutOne from "../../layouts/LayoutOne";
-import Breadcrumb from "../../wrappers/breadcrumb/Breadcrumb";
 import BlogPostsNoSidebar from "../../wrappers/blog/BlogPostsNoSidebar";
+import ComponentBreadcrumbs from "../../wrappers/breadcrumb/ComponentBreadcrumb";
 
 const BlogNoSidebar = () => {
-  let { pathname } = useLocation();
 
   return (
     <Fragment>
@@ -16,14 +14,17 @@ const BlogNoSidebar = () => {
       />
 
       <LayoutOne headerTop="visible">
-        {/* breadcrumb */}
-        <Breadcrumb 
+
+        <ComponentBreadcrumbs
           pages={[
-            {label: "Home", path: process.env.PUBLIC_URL + "/" },
-            {label: "Blog", path: process.env.PUBLIC_URL + pathname }
-          ]} 
+            { label: "Home", path: "/" },
+            { label: "About", path: "/about" },
+            { label: "Our Team", path: "/team" },
+          ]}
+          backgroundImage="/assets/img/page/banner/7.jpg"
+          height="60vh"
         />
-        
+
         <div className="blog-area pt-100 pb-100 blog-no-sidebar">
           <div className="container">
             <div className="row">
@@ -33,8 +34,6 @@ const BlogNoSidebar = () => {
                     {/* blog posts */}
                     <BlogPostsNoSidebar />
                   </div>
-
-                
                 </div>
               </div>
             </div>

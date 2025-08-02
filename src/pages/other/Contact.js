@@ -1,23 +1,23 @@
 import { Fragment } from "react";
-import { useLocation } from "react-router-dom";
 import SEO from "../../components/seo";
 import LayoutOne from "../../layouts/LayoutOne";
-import Breadcrumb from "../../wrappers/breadcrumb/contactBreadcrumb";
 import "@fortawesome/fontawesome-free/css/all.min.css";
+import ComponentBreadcrumbs from "../../wrappers/breadcrumb/ComponentBreadcrumb";
 
 const Contact = () => {
-  let { pathname } = useLocation();
-
   return (
     <Fragment>
       <SEO titleTemplate="Contact" description="Contact" />
 
       <LayoutOne headerTop="visible">
-        <Breadcrumb
+        <ComponentBreadcrumbs
           pages={[
-            { label: "Home", path: process.env.PUBLIC_URL + "/" },
-            { label: "Contact", path: process.env.PUBLIC_URL + pathname },
+            { label: "Home", path: "/" },
+            { label: "About", path: "/about" },
+            { label: "Our Team", path: "/team" },
           ]}
+          backgroundImage="/assets/img/page/banner/4.jpg"
+          height="65vh"
         />
 
         <section className="ttm-row res-991-pt-45 pb-70 pt-70 res-991-pb-0 clearfix">
@@ -340,9 +340,6 @@ const Contact = () => {
             </div>
           </div>
         </div>
-
-
-        
       </LayoutOne>
     </Fragment>
   );

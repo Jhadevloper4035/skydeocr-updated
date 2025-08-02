@@ -5,12 +5,12 @@ const HomeCategory = () => {
   const categories = [
     {
       title: "1 MM Laminates",
-      img: "/assets/img/product/category/pvc-laminates.jpg",
+      img: "/assets/img/product/category/1-MM-Laminates.jpg",
       link: "/modular-kitchens",
     },  
     {
       title: "0.8 MM Laminates",
-      img: "/assets/img/product/category/decorative-laminates.jpg",
+      img: "/assets/img/product/category/0.8-MM-Laminates.jpg",
       link: "/modular-kitchens",
     },
     {
@@ -20,17 +20,17 @@ const HomeCategory = () => {
     },
     {
       title: "Acrylic Laminates",
-      img: "/assets/img/product/category/acrylic-laminates.jpg",
+      img: "/assets/img/product/category/Acrylic-Laminates.jpg",
       link: "/modular-kitchens",
     },
      {
       title: "PVC Range Laminate",
-      img: "/assets/img/product/category/liner-laminates.jpg",
+      img: "/assets/img/product/category/PVC-Range-Laminate.jpg",
       link: "/modular-kitchens",
     },
     {
       title: "Sofitto Panels",
-      img: "/assets/img/product/category/acrylic-laminates.jpg",
+      img: "/assets/img/product/category/Sofitto-Panels.jpg",
       link: "/modular-kitchens",
     },
   ];

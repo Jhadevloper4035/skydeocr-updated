@@ -38,9 +38,7 @@ const HomeFurnitureSix = () => {
           spaceBottomClass="pb-70"
         />
 
-        <About spaceBottomClass="pb-70" />
-
-        <BrandLogoSliderOne spaceBottomClass="pb-70" />
+       
 
         <div className={clsx("welcome-area")}>
           <div className="container">
@@ -52,11 +50,17 @@ const HomeFurnitureSix = () => {
           </div>
         </div>
 
+
+
         <TabProductTwenty
           spaceBottomClass="pb-70"
           category="furniture"
           productGridStyleClass="product-wrap-10--style2 product-wrap-10--style2--blue"
         />
+
+         <About spaceBottomClass="pb-70" />
+
+        <BrandLogoSliderOne spaceBottomClass="pb-70" />
 
         <ParallaxSection
           backgroundImage="/assets/img/banner/bg6.jpg"

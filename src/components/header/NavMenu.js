@@ -300,7 +300,7 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
           </li>
 
           <li>
-            <Link to={process.env.PUBLIC_URL + "/"}>{t("contact")}</Link>
+            <Link to={process.env.PUBLIC_URL + "/contact"}>{t("contact")}</Link>
           </li>
         </ul>
       </nav>

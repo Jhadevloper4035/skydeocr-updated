@@ -3,17 +3,14 @@ import clsx from "clsx";
 import $ from "jquery";
 import Swiper from "swiper/bundle";
 import "swiper/swiper-bundle.min.css";
-
-import { useLocation } from "react-router-dom";
 import SEO from "../../components/seo";
 import LayoutOne from "../../layouts/LayoutOne";
-import Breadcrumb from "../../wrappers/breadcrumb/aboutBreadcrumb";
 import SectionTitleWithText from "../../components/section-title/SectionTitleWithText";
 import FunFactOne from "../../wrappers/fun-fact/FunFactOne";
 import TeamMemberOne from "../../wrappers/team-member/TeamMemberOne";
 import CategoryThreeSlider from "../../wrappers/category/CategoryThreeSlider";
+import ComponentBreadcrumbs from "../../wrappers/breadcrumb/ComponentBreadcrumb";
 const About = () => {
-
   useEffect(() => {
     const swiperslider = $(".swiper-slider");
     let x = 1;
@@ -184,11 +181,7 @@ const About = () => {
     });
   }, []);
 
-  let { pathname } = useLocation();
-
   return (
-
-    
     <Fragment>
       <SEO
         titleTemplate="About us"
@@ -196,11 +189,14 @@ const About = () => {
       />
 
       <LayoutOne headerTop="visible">
-        <Breadcrumb
+        <ComponentBreadcrumbs
           pages={[
-            { label: "Home", path: process.env.PUBLIC_URL + "/" },
-            { label: "About us", path: process.env.PUBLIC_URL + pathname },
+            { label: "Home", path: "/" },
+            { label: "About", path: "/about" },
+            { label: "Our Team", path: "/team" },
           ]}
+          backgroundImage="/assets/img/page/banner/3.jpg"
+          height="65vh"
         />
 
         <SectionTitleWithText spaceTopClass="pt-70" />

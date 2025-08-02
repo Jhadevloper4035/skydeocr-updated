@@ -1,15 +1,15 @@
 import { Fragment } from "react";
-import { useLocation, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import SEO from "../../components/seo";
 import LayoutOne from "../../layouts/LayoutOne";
-import Breadcrumb from "../../wrappers/breadcrumb/Breadcrumb";
 import BlogSidebar from "../../wrappers/blog/BlogSidebar";
 import BlogPost from "../../wrappers/blog/BlogPost";
 import blogData from "../../data/blog-featured/blog-featured.json";
+import ComponentBreadcrumbs from "../../wrappers/breadcrumb/ComponentBreadcrumb";
 
 
 const BlogDetailsStandard = () => {
-  let { pathname } = useLocation();
+
   const { slug } = useParams();
   const blog = blogData.find((single) => single.url === slug);
 
@@ -21,13 +21,18 @@ const BlogDetailsStandard = () => {
         description="Blog Post of flone react minimalist eCommerce template."
       />
       <LayoutOne headerTop="visible">
-        {/* breadcrumb */}
-        <Breadcrumb
-          pages={[
-            { label: "Home", path: process.env.PUBLIC_URL + "/" },
-            { label: "Blog Post", path: process.env.PUBLIC_URL + pathname }
-          ]}
-        />
+       
+        <ComponentBreadcrumbs
+                 pages={[
+                   { label: "Home", path: "/" },
+                   { label: "About", path: "/about" },
+                   { label: "Our Team", path: "/team" },
+                 ]}
+                 backgroundImage="/assets/img/page/banner/8.jpg"
+                 height="60vh"
+               />
+
+
         <div className="blog-area pt-100 pb-100">
           <div className="container">
             <div className="row flex-row-reverse">
