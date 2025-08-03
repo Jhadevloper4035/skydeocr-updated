@@ -13,11 +13,17 @@ const ShopGridNoSidebar = lazy(() => import("./pages/shop/ShopGridNoSidebar"));
 
 // product pages
 const Product = lazy(() => import("./pages/shop-product/Product"));
-const ProductTabLeft = lazy(() => import("./pages/shop-product/ProductTabLeft") );
-const ProductTabRight = lazy(() => import("./pages/shop-product/ProductTabRight") );
+const ProductTabLeft = lazy(() =>
+  import("./pages/shop-product/ProductTabLeft")
+);
+const ProductTabRight = lazy(() =>
+  import("./pages/shop-product/ProductTabRight")
+);
 const ProductSticky = lazy(() => import("./pages/shop-product/ProductSticky"));
 const ProductSlider = lazy(() => import("./pages/shop-product/ProductSlider"));
-const ProductFixedImage = lazy(() => import("./pages/shop-product/ProductFixedImage") );
+const ProductFixedImage = lazy(() =>
+  import("./pages/shop-product/ProductFixedImage")
+);
 
 // blog pages
 const Blogpage = lazy(() => import("./pages/blog/Blog"));
@@ -26,6 +32,9 @@ const BlogDetails = lazy(() => import("./pages/blog/BlogDetails"));
 // other pages
 const About = lazy(() => import("./pages/other/About"));
 const Contact = lazy(() => import("./pages/other/Contact"));
+const Event = lazy(() => import("./pages/other/Event"));
+const Review = lazy(() => import("./pages/other/Review"));
+
 const MyAccount = lazy(() => import("./pages/other/MyAccount"));
 const LoginRegister = lazy(() => import("./pages/other/LoginRegister"));
 
@@ -34,8 +43,6 @@ const Wishlist = lazy(() => import("./pages/other/Wishlist"));
 const Compare = lazy(() => import("./pages/other/Compare"));
 const Checkout = lazy(() => import("./pages/other/Checkout"));
 const NotFound = lazy(() => import("./pages/other/NotFound"));
-
-
 
 const App = () => {
   return (
@@ -119,6 +126,20 @@ const App = () => {
               path={process.env.PUBLIC_URL + "/contact"}
               element={<Contact />}
             />
+
+             <Route
+              path={process.env.PUBLIC_URL + "/event"}
+              element={<Event />}
+            />
+            
+
+              <Route
+              path={process.env.PUBLIC_URL + "/customer-feedback"}
+              element={<Review />}
+            />
+
+
+
             <Route
               path={process.env.PUBLIC_URL + "/my-account"}
               element={<MyAccount />}
