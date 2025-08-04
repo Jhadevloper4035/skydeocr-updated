@@ -1,27 +1,43 @@
-import React, { Fragment } from "react";
+import React from "react";
 import { Link } from "react-router-dom";
-import blogData from "../../data/blog-featured/blog-featured.json";
+import evenData from "../../data/eventData.json";
 
 const EventComponent = () => {
   return (
-    <Fragment>
-      {blogData.map((blog, index) => (
-        <div className="col-lg-4 col-md-6 col-sm-12" key={index}>
-          <div className="blog-wrap-2 mb-30">
+    <>
+      {evenData.map((event, index) => (
+        <div className="col-lg-4 col-md-6 col-sm-12 mb-4" key={index}>
+          <div className="blog-wrap-2 h-100 border rounded shadow-sm overflow-hidden">
             <div className="blog-img-2">
-              <Link to={`/blogdetail/${blog.url}`}>
-                <img src={blog.image} alt={blog.title} className="img-fluid" />
+              <Link to={`/eventdetail/${event.slug}`}>
+                <img
+                  src={
+                    event.images?.find((img) => img.includes("cover-img")) ||
+                    event.images[0]
+                  }
+                  alt={event.title}
+                  className="img-fluid w-100"
+                  style={{
+                    height: "250px",
+                    objectFit: "cover",
+                  }}
+                />
               </Link>
             </div>
-            <div className="blog-content-2" style={{ padding: "20px" }}>
-              <h4 style={{ textAlign: "center" }}>
-                <Link to={`/blogdetail/${blog.url}`}>{blog.title}</Link>
+            <div className="blog-content-2 p-3 d-flex align-items-center justify-content-center text-center" style={{ height: "120px" }}>
+              <h4 className="mb-0">
+                <Link
+                  to={`/event/detail/${event.slug}`}
+                  className="text-dark text-decoration-none"
+                >
+                  {event.title}
+                </Link>
               </h4>
             </div>
           </div>
         </div>
       ))}
-    </Fragment>
+    </>
   );
 };
 

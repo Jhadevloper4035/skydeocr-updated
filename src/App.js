@@ -1,7 +1,7 @@
 import { Suspense, lazy } from "react";
 import ScrollToTop from "./helpers/scroll-top";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Career from "./pages/other/Career";
+
 
 //homepage
 const Home = lazy(() => import("./pages/home/Home"));
@@ -33,6 +33,8 @@ const BlogDetails = lazy(() => import("./pages/blog/BlogDetails"));
 const About = lazy(() => import("./pages/other/About"));
 const Contact = lazy(() => import("./pages/other/Contact"));
 const Event = lazy(() => import("./pages/other/Event"));
+const Career = lazy(() => import("./pages/other/Career"));
+const EventDetailPage =  lazy(() => import("./pages/other/EventDetailPage"));
 const Review = lazy(() => import("./pages/other/Review"));
 
 const MyAccount = lazy(() => import("./pages/other/MyAccount"));
@@ -59,6 +61,7 @@ const App = () => {
           }
         >
           <Routes>
+
             <Route path={process.env.PUBLIC_URL + "/"} element={<Home />} />
 
             <Route
@@ -127,18 +130,20 @@ const App = () => {
               element={<Contact />}
             />
 
-             <Route
+            <Route
               path={process.env.PUBLIC_URL + "/event"}
               element={<Event />}
             />
-            
 
-              <Route
+            <Route
+              path={process.env.PUBLIC_URL + "/event/detail/:slug"}
+              element={<EventDetailPage />}
+            />
+
+            <Route
               path={process.env.PUBLIC_URL + "/customer-feedback"}
               element={<Review />}
             />
-
-
 
             <Route
               path={process.env.PUBLIC_URL + "/my-account"}
