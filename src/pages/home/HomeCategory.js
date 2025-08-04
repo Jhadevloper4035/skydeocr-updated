@@ -20,7 +20,7 @@ const HomeCategory = () => {
     },
     {
       title: "Acrylic Laminates",
-      img: "/assets/img/product/category/Acrylic-Laminates.jpg",
+      img: "/assets/img/product/category/Acrylic-Laminate.jpg",
       link: "/modular-kitchens",
     },
      {
