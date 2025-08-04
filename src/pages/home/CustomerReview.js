@@ -1,11 +1,12 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const CustomerReview = () => {
   const videos = [
-    "https://res.cloudinary.com/dtlazsqas/video/upload/v1748264238/WhatsApp_Video_2025-05-26_at_18.24.15_3827cabe_smysue.mp4",
-    "https://res.cloudinary.com/dtlazsqas/video/upload/v1748264237/WhatsApp_Video_2025-05-26_at_18.24.16_8709949a_dv3l2r.mp4",
-    "https://res.cloudinary.com/dtlazsqas/video/upload/v1748264237/WhatsApp_Video_2025-05-26_at_18.24.14_08379862_mqst6o.mp4",
-    "https://res.cloudinary.com/dtlazsqas/video/upload/v1748264237/WhatsApp_Video_2025-05-26_at_18.24.10_fb146684_wdtlcd.mp4",
+    "https://res.cloudinary.com/ds0yomjw1/video/upload/v1754306911/Smiles_All_Around_at_the_Skydecor_Experience_Center_Kirti_Nagar_dxg10c.mp4",
+    "https://res.cloudinary.com/ds0yomjw1/video/upload/v1754306092/Unbiased_Review_of_Skydecor_Laminates_Experience_Center_architecture_homedecor_kitchen_vpzysv.mp4",
+    "https://res.cloudinary.com/ds0yomjw1/video/upload/v1754306091/Happiness_meets_design_xarkix.mp4",
+    "https://res.cloudinary.com/ds0yomjw1/video/upload/v1754306090/Another_Happy_Customer_at_Skydecor_Experience_Center_Kirti_Nagar_nsbt3x.mp4",
   ];
 
   return (
@@ -51,13 +52,13 @@ const CustomerReview = () => {
         {/* Show All Reviews Button */}
         <div className="row mt-4">
           <div className="col text-center">
-            <button
+            <Link
+              to={`${process.env.PUBLIC_URL}/customer-feedback`}
               className="btn btn-outline-light fw-light"
               style={{ padding: "10px 30px" }}
-              onClick={() => alert("Redirect to full reviews page or modal")}
             >
               Show All Reviews
-            </button>
+            </Link>
           </div>
         </div>
       </div>
