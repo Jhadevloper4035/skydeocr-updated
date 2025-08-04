@@ -507,11 +507,11 @@ const About = () => {
         <div
           className="breadcrumb-area pt-70 pb-70 bg-gray-3"
           style={{
-            backgroundImage: "url('./assets/img/certificate/banner.png')",
+            backgroundImage: "url('./assets/img/certificate/certificate-wall.jpg')",
             backgroundSize: "cover",
             backgroundRepeat: "no-repeat",
             backgroundPosition: "center",
-            height: "60vh",
+            height: "100vh",
             display: "flex",
             justifyContent: "center",
             alignItems: "center",

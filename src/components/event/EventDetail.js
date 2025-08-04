@@ -37,7 +37,6 @@ const EventDetail = () => {
     (img) => !img.includes("cover-img")
   );
 
-  // Optional: handle hover effect using inline React state
   const handleMouseEnter = (e) => {
     Object.assign(e.currentTarget.style, imgHoverStyle);
   };
