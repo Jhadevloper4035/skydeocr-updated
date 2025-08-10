@@ -13,10 +13,6 @@ import About from "./About";
 import ParallaxSection from "./ParallaxSection";
 import TestimonialOne from "../../wrappers/testimonial/TestimonialOne";
 
-
-
-
-
 const HomeFurnitureSix = () => {
   return (
     <Fragment>
@@ -43,8 +39,6 @@ const HomeFurnitureSix = () => {
           spaceBottomClass="pb-70"
         />
 
-       
-
         <div className={clsx("welcome-area")}>
           <div className="container">
             <div className="welcome-content text-center">
@@ -55,15 +49,13 @@ const HomeFurnitureSix = () => {
           </div>
         </div>
 
-
-
         <TabProductTwenty
           spaceBottomClass="pb-70"
           category="furniture"
           productGridStyleClass="product-wrap-10--style2 product-wrap-10--style2--blue"
         />
 
-         <About spaceBottomClass="pb-70" />
+        <About spaceBottomClass="pb-70" />
 
         <BrandLogoSliderOne spaceBottomClass="pb-70" />
 
@@ -78,9 +70,6 @@ const HomeFurnitureSix = () => {
           textImage="/assets/img/bg/textpart2.png"
           textImageStyle={{ height: 250, width: 500 }}
         />
-
-
-
 
         <section style={{ paddingBottom: "70px", marginTop: "70px" }}>
           <div className="container">
@@ -109,12 +98,15 @@ const HomeFurnitureSix = () => {
           </div>
         </section>
 
-
         <TestimonialOne />
 
         <CustomerReview />
 
-        <BlogFeaturedThree spaceTopClass="pt-70" spaceBottomClass="pb-70" limit={3} />
+        <BlogFeaturedThree
+          spaceTopClass="pt-70"
+          spaceBottomClass="pb-70"
+          limit={3}
+        />
       </LayoutEight>
     </Fragment>
   );
