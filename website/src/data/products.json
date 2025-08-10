@@ -1,0 +1,3663 @@
+[
+  {
+    "id": "1",
+    "sku": "SDA 101",
+    "name": "SDA 101",
+    "new": true,
+    "rating": 4.2,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [ "Gloss"]
+    ,
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-101.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "2",
+    "sku": "SDA 102",
+    "name": "SDA 102",
+    "new": true,
+    "rating": 4.4,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-102.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "3",
+    "sku": "SDA 103",
+    "name": "SDA 103",
+    "new": true,
+    "rating": 4.7,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-103.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "4",
+    "sku": "SDA 105",
+    "name": "SDA 105",
+    "new": true,
+    "rating": 4.4,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-105.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "5",
+    "sku": "SDA 106",
+    "name": "SDA 106",
+    "new": true,
+    "rating": 4.8,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-106.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "6",
+    "sku": "SDA 107",
+    "name": "SDA 107",
+    "new": true,
+    "rating": 4.4,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-107.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "7",
+    "sku": "SDA 109",
+    "name": "SDA 109",
+    "new": true,
+    "rating": 4.9,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-109.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "8",
+    "sku": "SDA 111",
+    "name": "SDA 111",
+    "new": true,
+    "rating": 5,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-111.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "9",
+    "sku": "SDA 112",
+    "name": "SDA 112",
+    "new": true,
+    "rating": 4.7,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-112.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "10",
+    "sku": "SDA 113",
+    "name": "SDA 113",
+    "new": true,
+    "rating": 4.1,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-113.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "11",
+    "sku": "SDA 114",
+    "name": "SDA 114",
+    "new": true,
+    "rating": 4.9,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-114.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "12",
+    "sku": "SDA 115",
+    "name": "SDA 115",
+    "new": true,
+    "rating": 4.7,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-115.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "13",
+    "sku": "SDA 116",
+    "name": "SDA 116",
+    "new": true,
+    "rating": 4.8,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-116.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "14",
+    "sku": "SDA 117",
+    "name": "SDA 117",
+    "new": true,
+    "rating": 4.7,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-117.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "15",
+    "sku": "SDA 118",
+    "name": "SDA 118",
+    "new": true,
+    "rating": 4.8,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-118.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "16",
+    "sku": "SDA 119",
+    "name": "SDA 119",
+    "new": true,
+    "rating": 4.3,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-109.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "17",
+    "sku": "SDA 120",
+    "name": "SDA 120",
+    "new": true,
+    "rating": 4.3,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-120.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "18",
+    "sku": "SDA 121",
+    "name": "SDA 121",
+    "new": true,
+    "rating": 4.5,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-121.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "19",
+    "sku": "SDA 122",
+    "name": "SDA 122",
+    "new": true,
+    "rating": 4.7,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-122.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "20",
+    "sku": "SDA 123",
+    "name": "SDA 123",
+    "new": true,
+    "rating": 4.4,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-123.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "21",
+    "sku": "SDA 125",
+    "name": "SDA 125",
+    "new": true,
+    "rating": 5,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-125.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "22",
+    "sku": "SDA 126",
+    "name": "SDA 126",
+    "new": true,
+    "rating": 4.8,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-126.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "23",
+    "sku": "SDA 127",
+    "name": "SDA 127",
+    "new": true,
+    "rating": 4.2,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-127.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "24",
+    "sku": "SDA 128",
+    "name": "SDA 128",
+    "new": true,
+    "rating": 4.1,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-128.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "25",
+    "sku": "SDA 129",
+    "name": "SDA 129",
+    "new": true,
+    "rating": 4.5,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-129.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "26",
+    "sku": "SDA 130",
+    "name": "SDA 130",
+    "new": true,
+    "rating": 4.9,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-130.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "27",
+    "sku": "SDA 131",
+    "name": "SDA 131",
+    "new": true,
+    "rating": 4.3,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-131.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "28",
+    "sku": "SDA 132",
+    "name": "SDA 132",
+    "new": true,
+    "rating": 4,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-132.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "29",
+    "sku": "SDA 133",
+    "name": "SDA 133",
+    "new": true,
+    "rating": 4.1,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-133.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "30",
+    "sku": "SDA 134",
+    "name": "SDA 134",
+    "new": true,
+    "rating": 4.8,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-134.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "31",
+    "sku": "SDA 135",
+    "name": "SDA 135",
+    "new": true,
+    "rating": 4.8,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-135.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "32",
+    "sku": "SDA 136",
+    "name": "SDA 136",
+    "new": true,
+    "rating": 4.3,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-136.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "33",
+    "sku": "SDA 137",
+    "name": "SDA 137",
+    "new": true,
+    "rating": 4.9,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-137.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "34",
+    "sku": "SDA 138",
+    "name": "SDA 138",
+    "new": true,
+    "rating": 4.3,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-138.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "35",
+    "sku": "SDA 151",
+    "name": "SDA 151",
+    "new": true,
+    "rating": 4.1,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Shimmer"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/shimmer/SDA-151.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "36",
+    "sku": "SDA 152",
+    "name": "SDA 152",
+    "new": true,
+    "rating": 4.9,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Shimmer"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/shimmer/SDA-152.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "37",
+    "sku": "SDA 153",
+    "name": "SDA 153",
+    "new": true,
+    "rating": 5,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Shimmer"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/shimmer/SDA-153.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "38",
+    "sku": "SDA 154",
+    "name": "SDA 154",
+    "new": true,
+    "rating": 4.7,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Shimmer"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/shimmer/SDA-154.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "39",
+    "sku": "SDA 155",
+    "name": "SDA 155",
+    "new": true,
+    "rating": 4.9,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Shimmer"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/shimmer/SDA-155.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "40",
+    "sku": "SDA 156",
+    "name": "SDA 156",
+    "new": true,
+    "rating": 4.1,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Shimmer"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/shimmer/SDA-156.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "41",
+    "sku": "SDA 157",
+    "name": "SDA 157",
+    "new": true,
+    "rating": 4.3,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Shimmer"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/shimmer/SDA-157.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "42",
+    "sku": "SDA 158",
+    "name": "SDA 158",
+    "new": true,
+    "rating": 4.4,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Shimmer"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/shimmer/SDA-158.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "43",
+    "sku": "SDA 161",
+    "name": "SDA 161",
+    "new": true,
+    "rating": 4.8,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Shimmer"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/shimmer/SDA-161.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "44",
+    "sku": "SDA 162",
+    "name": "SDA 162",
+    "new": true,
+    "rating": 4.9,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Shimmer"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/shimmer/SDA-162.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "45",
+    "sku": "SDA 201",
+    "name": "SDA 201",
+    "new": true,
+    "rating": 4.2,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Solid Raso"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-201.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "46",
+    "sku": "SDA 202",
+    "name": "SDA 202",
+    "new": true,
+    "rating": 4.4,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Solid Raso"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-202.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "47",
+    "sku": "SDA 203",
+    "name": "SDA 203",
+    "new": true,
+    "rating": 5,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Solid Raso"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-203.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "48",
+    "sku": "SDA 204",
+    "name": "SDA 204",
+    "new": true,
+    "rating": 4.5,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Solid Raso"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-204.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "49",
+    "sku": "SDA 205",
+    "name": "SDA 205",
+    "new": true,
+    "rating": 4.2,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Solid Raso"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-205.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "50",
+    "sku": "SDA 206",
+    "name": "SDA 206",
+    "new": true,
+    "rating": 4.6,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Solid Raso"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-206.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "51",
+    "sku": "SDA 207",
+    "name": "SDA 207",
+    "new": true,
+    "rating": 4,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Solid Raso"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-207.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "52",
+    "sku": "SDA 208",
+    "name": "SDA 208",
+    "new": true,
+    "rating": 4.1,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Solid Raso"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-208.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "53",
+    "sku": "SDA 209",
+    "name": "SDA 209",
+    "new": true,
+    "rating": 4.1,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Solid Raso"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-209.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "54",
+    "sku": "SDA 301",
+    "name": "SDA 301",
+    "new": true,
+    "rating": 5,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-301.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "2mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "55",
+    "sku": "SDA 302",
+    "name": "SDA 302",
+    "new": true,
+    "rating": 4.5,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-302.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "2mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "56",
+    "sku": "SDA 303",
+    "name": "SDA 303",
+    "new": true,
+    "rating": 4.3,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-303.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "2mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "57",
+    "sku": "SDA 304",
+    "name": "SDA 304",
+    "new": true,
+    "rating": 4.3,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-304.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "2mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "58",
+    "sku": "SDA 305",
+    "name": "SDA 305",
+    "new": true,
+    "rating": 4.3,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-305.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "2mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "59",
+    "sku": "SDA 306",
+    "name": "SDA 306",
+    "new": true,
+    "rating": 4.8,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-306.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "2mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "60",
+    "sku": "SDA 307",
+    "name": "SDA 307",
+    "new": true,
+    "rating": 4.7,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-307.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "2mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "61",
+    "sku": "SDA 420",
+    "name": "SDA 420",
+    "new": true,
+    "rating": 4.4,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Metallo"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/metallo/SDA-420.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "62",
+    "sku": "SDA 421",
+    "name": "SDA 421",
+    "new": true,
+    "rating": 4.2,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Metallo"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/metallo/SDA-421.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "63",
+    "sku": "SDA 422",
+    "name": "SDA 422",
+    "new": true,
+    "rating": 4.6,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Metallo"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/metallo/SDA-422.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "64",
+    "sku": "SDA 423",
+    "name": "SDA 423",
+    "new": true,
+    "rating": 4.2,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Metallo"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/metallo/SDA-423.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "65",
+    "sku": "SDA 424",
+    "name": "SDA 424",
+    "new": true,
+    "rating": 4.4,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Metallo"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/metallo/SDA-424.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "66",
+    "sku": "SDA 425",
+    "name": "SDA 425",
+    "new": true,
+    "rating": 4.7,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Metallo"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/metallo/SDA-425.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "67",
+    "sku": "SDA 426",
+    "name": "SDA 426",
+    "new": true,
+    "rating": 4.1,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Metallo"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/metallo/SDA-426.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "68",
+    "sku": "SDA 427",
+    "name": "SDA 427",
+    "new": true,
+    "rating": 4.9,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Metallo"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/metallo/SDA-427.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "69",
+    "sku": "SDA 428",
+    "name": "SDA 428",
+    "new": true,
+    "rating": 4.9,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Metallo"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/metallo/SDA-428.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "70",
+    "sku": "SDA 429",
+    "name": "SDA 429",
+    "new": true,
+    "rating": 4.4,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Metallo"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/metallo/SDA-429.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "71",
+    "sku": "SDA 430",
+    "name": "SDA 430",
+    "new": true,
+    "rating": 5,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Metallo"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/metallo/SDA-430.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "72",
+    "sku": "SDA 431",
+    "name": "SDA 431",
+    "new": true,
+    "rating": 4.8,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Metallo"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/metallo/SDA-431.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "73",
+    "sku": "SDA 432",
+    "name": "SDA 432",
+    "new": true,
+    "rating": 4.6,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Metallo"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/metallo/SDA-432.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "74",
+    "sku": "SDA 451",
+    "name": "SDA 451",
+    "new": true,
+    "rating": 4.9,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Stone"
+    ],
+    "tag": [
+      "Marblex"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/marblex/SDA-451.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "75",
+    "sku": "SDA 452",
+    "name": "SDA 452",
+    "new": true,
+    "rating": 4.2,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Stone"
+    ],
+    "tag": [
+      "Marblex"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/marblex/SDA-452.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "76",
+    "sku": "SDA 453",
+    "name": "SDA 453",
+    "new": true,
+    "rating": 4.3,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Stone"
+    ],
+    "tag": [
+      "Marblex"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/marblex/SDA-453.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "77",
+    "sku": "SDA 454",
+    "name": "SDA 454",
+    "new": true,
+    "rating": 4.6,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Stone"
+    ],
+    "tag": [
+      "Marblex"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/marblex/SDA-454.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "78",
+    "sku": "SDA 455",
+    "name": "SDA 455",
+    "new": true,
+    "rating": 4.9,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Stone"
+    ],
+    "tag": [
+      "Marblex"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/marblex/SDA-455.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "79",
+    "sku": "SDA 456",
+    "name": "SDA 456",
+    "new": true,
+    "rating": 4.5,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Stone"
+    ],
+    "tag": [
+      "Marblex"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/marblex/SDA-456.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "80",
+    "sku": "SDA 459",
+    "name": "SDA 459",
+    "new": true,
+    "rating": 4.1,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Stone"
+    ],
+    "tag": [
+      "Marblex"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/marblex/SDA-459.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "81",
+    "sku": "SDA 460",
+    "name": "SDA 460",
+    "new": true,
+    "rating": 4.6,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Stone"
+    ],
+    "tag": [
+      "Marblex"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/marblex/SDA-460.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "82",
+    "sku": "SDA 461",
+    "name": "SDA 461",
+    "new": true,
+    "rating": 4.7,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Stone"
+    ],
+    "tag": [
+      "Marblex"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/marblex/SDA-461.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "83",
+    "sku": "SDA 462",
+    "name": "SDA 462",
+    "new": true,
+    "rating": 4.2,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Stone"
+    ],
+    "tag": [
+      "Marblex"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/marblex/SDA-462.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "84",
+    "sku": "SDA 463",
+    "name": "SDA 463",
+    "new": true,
+    "rating": 4.3,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Stone"
+    ],
+    "tag": [
+      "Marblex"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/marblex/SDA-463.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "85",
+    "sku": "SDA 464",
+    "name": "SDA 464",
+    "new": true,
+    "rating": 4.7,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Stone"
+    ],
+    "tag": [
+      "Marblex"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/marblex/SDA-464.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "86",
+    "sku": "SDA 465",
+    "name": "SDA 465",
+    "new": true,
+    "rating": 4.4,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Stone"
+    ],
+    "tag": [
+      "Marblex"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/marblex/SDA-465.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "87",
+    "sku": "SDA 601",
+    "name": "SDA 601",
+    "new": true,
+    "rating": 4.3,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Woodgrain"
+    ],
+    "tag": [
+      "Natural Wood"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/natural-wood/SDA-601.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "88",
+    "sku": "SDA 607",
+    "name": "SDA 607",
+    "new": true,
+    "rating": 4.4,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Woodgrain"
+    ],
+    "tag": [
+      "Natural Wood"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/natural-wood/SDA-607.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "89",
+    "sku": "SDA 608",
+    "name": "SDA 608",
+    "new": true,
+    "rating": 4.8,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Woodgrain"
+    ],
+    "tag": [
+      "Natural Wood"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/natural-wood/SDA-608.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "90",
+    "sku": "SDA 611",
+    "name": "SDA 611",
+    "new": true,
+    "rating": 4.1,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Woodgrain"
+    ],
+    "tag": [
+      "Natural Wood"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/natural-wood/SDA-611.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "91",
+    "sku": "SDA 612",
+    "name": "SDA 612",
+    "new": true,
+    "rating": 4.9,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Woodgrain"
+    ],
+    "tag": [
+      "Natural Wood"
+    ],
+
+    "finish": [
+      "Gloss"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/natural-wood/SDA-612.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "92",
+    "sku": "SDA 701",
+    "name": "SDA 701",
+    "new": true,
+    "rating": 4.9,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Reflect"
+    ],
+
+    "finish": [
+      "Reflect"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/reflect/SDA-701.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "93",
+    "sku": "SDA 702",
+    "name": "SDA 702",
+    "new": true,
+    "rating": 4.2,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Reflect"
+    ],
+
+    "finish": [
+      "Reflect"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/reflect/SDA-702.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "94",
+    "sku": "SDA 703",
+    "name": "SDA 703",
+    "new": true,
+    "rating": 4.9,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Reflect"
+    ],
+
+    "finish": [
+      "Reflect"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/reflect/SDA-703.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "95",
+    "sku": "SDA 704",
+    "name": "SDA 704",
+    "new": true,
+    "rating": 4.9,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Reflect"
+    ],
+
+    "finish": [
+      "Reflect"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/reflect/SDA-704.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "1.5mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "96",
+    "sku": "SDA 1001",
+    "name": "SDA 1001",
+    "new": true,
+    "rating": 4.2,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Stone"
+    ],
+    "tag": [
+      "Stone"
+    ],
+
+    "finish": [
+      "Flute Glass"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/stone/SDA-1001.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "3mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "97",
+    "sku": "SDA 1002",
+    "name": "SDA 1002",
+    "new": true,
+    "rating": 4.8,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Stone"
+    ],
+    "tag": [
+      "Stone"
+    ],
+
+    "finish": [
+      "Flute Glass"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/stone/SDA-1002.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "3mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "98",
+    "sku": "SDA 1003",
+    "name": "SDA 1003",
+    "new": true,
+    "rating": 4.5,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Flute Glass"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-1003.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "3mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "99",
+    "sku": "SDA 1004",
+    "name": "SDA 1004",
+    "new": true,
+    "rating": 4.5,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+
+    "finish": [
+      "Flute Glass"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-1004.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "3mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "100",
+    "sku": "SDA 1005",
+    "name": "SDA 1005",
+    "new": true,
+    "rating": 4.9,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Solid"
+    ],
+    "tag": [
+      "Solid"
+    ],
+    "finish": [
+      "Flute Glass"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/solid/SDA-1005.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "3mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "101",
+    "sku": "SDA 1501",
+    "name": "SDA 1501",
+    "new": true,
+    "rating": 4.6,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Sparkle"
+    ],
+
+    "finish": [
+      "Flute Glass"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/sparkle/SDA-1501.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "3mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "102",
+    "sku": "SDA 1502",
+    "name": "SDA 1502",
+    "new": true,
+    "rating": 5,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Sparkle"
+    ],
+
+    "finish": [
+      "Flute Glass"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/sparkle/SDA-1502.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "3mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "103",
+    "sku": "SDA 1503",
+    "name": "SDA 1503",
+    "new": true,
+    "rating": 4.6,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Sparkle"
+    ],
+
+    "finish": [
+      "Flute Glass"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/sparkle/SDA-1503.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "3mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "104",
+    "sku": "SDA 1504",
+    "name": "SDA 1504",
+    "new": true,
+    "rating": 4.9,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Sparkle"
+    ],
+
+    "finish": [
+      "Flute Glass"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/sparkle/SDA-1504.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "3mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "105",
+    "sku": "SDA 1505",
+    "name": "SDA 1505",
+    "new": true,
+    "rating": 4.9,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Sparkle"
+    ],
+
+    "finish": [
+      "Flute Glass"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/sparkle/SDA-1505.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "3mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "106",
+    "sku": "SDA 1506",
+    "name": "SDA 1506",
+    "new": true,
+    "rating": 4.7,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Abstract"
+    ],
+    "tag": [
+      "Sparkle"
+    ],
+
+    "finish": [
+      "Flute Glass"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/sparkle/SDA-1506.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "3mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "107",
+    "sku": "SDA 1507",
+    "name": "SDA 1507",
+    "new": true,
+    "rating": 4.5,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Stone"
+    ],
+    "tag": [
+      "Stone"
+    ],
+
+    "finish": [
+      "Flute Glass"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/stone/SDA-1507.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "3mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "108",
+    "sku": "SDA 1508",
+    "name": "SDA 1508",
+    "new": true,
+    "rating": 4.6,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Stone"
+    ],
+    "tag": [
+      "Stone"
+    ],
+
+    "finish": [
+      "Flute Glass"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/stone/SDA-1508jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "3mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "109",
+    "sku": "SDA 1509",
+    "name": "SDA 1509",
+    "new": true,
+    "rating": 4.5,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Stone"
+    ],
+    "tag": [
+      "Stone"
+    ],
+
+    "finish": [
+      "Flute Glass"
+    ],
+    "image": [
+      "https://skydecor.in/products/acrylic/stone/SDA-1509.jpg"
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "3mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "110",
+    "sku": "SDA 2001",
+    "name": "SDA 2001",
+    "new": true,
+    "rating": 4.5,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Plain"
+    ],
+    "tag": [
+      "Plain"
+    ],
+
+    "finish": [
+      "Flute Glass"
+    ],
+    "image": [
+      ""
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "3mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  },
+  {
+    "id": "111",
+    "sku": "SDA 2002",
+    "name": "SDA 2002",
+    "new": true,
+    "rating": 4.2,
+    "category": [
+      "Acrylish"
+    ],
+    "subCategory": [
+      "Plain"
+    ],
+    "tag": [
+      "Plain"
+    ],
+
+    "finish": [
+      "Flute Glass"
+    ],
+    "image": [
+      ""
+    ],
+    "size": "4ft x 8ft",
+    "thickness": "3mm",
+    "width": "1220mm",
+    "discount": 0,
+    "offerEnd": " ",
+    "saleCount": 0,
+    "price": 0,
+    "stock": 1000,
+    "shortDescription": " ",
+    "fullDescription": " "
+  }
+]
