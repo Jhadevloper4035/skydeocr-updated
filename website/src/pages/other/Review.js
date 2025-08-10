@@ -10,7 +10,7 @@ const Event = () => {
   return (
     <Fragment>
       <SEO
-        titleTemplate="Blog"
+        titleTemplate="Customer Reviews"
         description="Blog of flone react minimalist eCommerce template."
       />
 

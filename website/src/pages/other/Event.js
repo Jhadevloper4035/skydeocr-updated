@@ -10,8 +10,8 @@ const Event = () => {
   return (
     <Fragment>
       <SEO
-        titleTemplate="skydecor event"
-        description="Blog of flone react minimalist eCommerce template."
+        titleTemplate="Event"
+        description=""
       />
 
       <LayoutOne headerTop="visible">

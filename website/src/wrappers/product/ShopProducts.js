@@ -1,6 +1,6 @@
 import PropTypes from "prop-types";
 import clsx from "clsx";
-import ProductgridList from "./ProductgridList";
+import ProductgridList from "./ProductGridTen";
 
 const ShopProducts = ({ products, layout }) => {
   return (

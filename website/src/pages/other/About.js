@@ -10,6 +10,7 @@ import FunFactOne from "../../wrappers/fun-fact/FunFactOne";
 import TeamMemberOne from "../../wrappers/team-member/TeamMemberOne";
 import CategoryThreeSlider from "../../wrappers/category/CategoryThreeSlider";
 import ComponentBreadcrumbs from "../../wrappers/breadcrumb/ComponentBreadcrumb";
+
 const About = () => {
   useEffect(() => {
     const swiperslider = $(".swiper-slider");

@@ -266,7 +266,7 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
 
           
           <li>
-            <Link to={process.env.PUBLIC_URL + "/"}>
+            <Link to={process.env.PUBLIC_URL + "/event"}>
               {t("Events")}
               {sidebarMenu ? (
                 <span>
@@ -278,7 +278,7 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
             </Link>
             <ul className="submenu">
               <li>
-                <Link to={process.env.PUBLIC_URL + "/"}>
+                <Link to={process.env.PUBLIC_URL + "/event"}>
                   {t("Exhibition & media")}
                 </Link>
               </li>
@@ -290,7 +290,7 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
           </li>
 
           <li>
-            <Link to={process.env.PUBLIC_URL + "/"}>{t("Career ")}</Link>
+            <Link to={process.env.PUBLIC_URL + "/career"}>{t("Career ")}</Link>
           </li>
 
           <li>

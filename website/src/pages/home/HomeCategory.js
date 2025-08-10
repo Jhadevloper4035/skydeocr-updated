@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const HomeCategory = () => {
   const categories = [
     {
-      title: "1 MM Laminates",
+      title: "1 MM + Laminates",
       img: "/assets/img/product/category/1-MM-Laminates.jpg",
       link: "/modular-kitchens",
     },  
@@ -45,7 +45,7 @@ const HomeCategory = () => {
         <div className="row text-center">
           <div className="welcome-content text-center">
             <h1 style={{ textTransform: "uppercase" }}>
-              SKYDECOR'S TRENDNG Laminates
+              Our Products
             </h1>
           </div>
         </div>

@@ -23,7 +23,7 @@ const TabProductTwenty = ({
           >
             <Nav.Item>
               <Nav.Link eventKey="1mm-laminates">
-                <h4>1 MM Laminates</h4>
+                <h4>1 MM Laminates + </h4>
               </Nav.Link>
             </Nav.Item>
 
