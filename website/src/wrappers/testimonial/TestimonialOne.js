@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import clsx from "clsx"
+import clsx from "clsx";
 import Swiper, { SwiperSlide } from "../../components/swiper";
 import testimonialData from "../../data/testimonial/testimonial-one.json";
 import TestimonialOneSingle from "../../components/testimonial/TestimonialOneSingle.js";
@@ -8,7 +8,7 @@ import TestimonialOneSingle from "../../components/testimonial/TestimonialOneSin
 const settings = {
   slidesPerView: 1,
   loop: true,
-  autoplay: true
+  autoplay: true,
 };
 
 const TestimonialOne = ({
@@ -20,20 +20,38 @@ const TestimonialOne = ({
   testimonialClass,
 }) => {
   return (
-    <div className={clsx("testimonial-area", spaceTopClass, spaceBottomClass, spaceLeftClass, spaceRightClass, bgColorClass)}>
+    <div
+      className={clsx(
+        "testimonial-area",
+        spaceTopClass,
+        spaceBottomClass,
+        spaceLeftClass,
+        spaceRightClass,
+        bgColorClass
+      )}
+    >
       <div className="container">
         <div className="row">
+          <div className={clsx("welcome-area")}>
+            <div className="container">
+              <div className="welcome-content text-center">
+                <h1 style={{ textTransform: "uppercase" }}>
+                 SkyDecor Success Stories
+                </h1>
+              </div>
+            </div>
+          </div>
           <div className="col-lg-10 mx-auto">
             <div className="testimonial-active nav-style-1 nav-testi-style">
               {testimonialData && (
                 <Swiper options={settings}>
                   {testimonialData.map((single, key) => (
-                      <SwiperSlide key={key}>
-                        <TestimonialOneSingle
-                          data={single}
-                          testimonialClass={testimonialClass}
-                        />
-                      </SwiperSlide>
+                    <SwiperSlide key={key}>
+                      <TestimonialOneSingle
+                        data={single}
+                        testimonialClass={testimonialClass}
+                      />
+                    </SwiperSlide>
                   ))}
                 </Swiper>
               )}
@@ -51,7 +69,7 @@ TestimonialOne.propTypes = {
   spaceLeftClass: PropTypes.string,
   spaceRightClass: PropTypes.string,
   spaceTopClass: PropTypes.string,
-  testimonialClass: PropTypes.string
+  testimonialClass: PropTypes.string,
 };
 
 export default TestimonialOne;

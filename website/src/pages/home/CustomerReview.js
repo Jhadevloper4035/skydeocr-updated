@@ -3,17 +3,17 @@ import { Link } from "react-router-dom";
 
 const CustomerReview = () => {
   const videos = [
-    "https://res.cloudinary.com/ds0yomjw1/video/upload/v1754306911/Smiles_All_Around_at_the_Skydecor_Experience_Center_Kirti_Nagar_dxg10c.mp4",
-    "https://res.cloudinary.com/ds0yomjw1/video/upload/v1754306092/Unbiased_Review_of_Skydecor_Laminates_Experience_Center_architecture_homedecor_kitchen_vpzysv.mp4",
-    "https://res.cloudinary.com/ds0yomjw1/video/upload/v1754306091/Happiness_meets_design_xarkix.mp4",
-    "https://res.cloudinary.com/ds0yomjw1/video/upload/v1754306090/Another_Happy_Customer_at_Skydecor_Experience_Center_Kirti_Nagar_nsbt3x.mp4",
+    "https://rantechnology.in/skydecor/s1.mp4",
+    "https://rantechnology.in/skydecor/s2.mp4",
+    "https://rantechnology.in/skydecor/s3.mp4",
+    "https://rantechnology.in/skydecor/s4.mp4",
   ];
 
   return (
     <section
       className="rooms1 bg-gray"
       data-scroll-index={1}
-      style={{ padding: "70px 0" }}
+      style={{ padding: "70px 0px" }}
     >
       <div className="container">
         <div className="row text-center">

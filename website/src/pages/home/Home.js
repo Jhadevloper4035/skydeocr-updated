@@ -6,12 +6,15 @@ import LayoutEight from "../../layouts/LayoutEight";
 import HeroSliderThirtyOne from "../../wrappers/hero-slider/HeroSliderTen";
 import TabProductTwenty from "../../wrappers/product/TabProductTwenty";
 import BrandLogoSliderOne from "../../wrappers/brand-logo/BrandLogoSliderOne";
-
 import HomeCategory from "./HomeCategory";
 import CustomerReview from "./CustomerReview";
 import About from "./About";
 import ParallaxSection from "./ParallaxSection";
 import TestimonialOne from "../../wrappers/testimonial/TestimonialOne";
+import Visualiser from "./Visualiser";
+
+
+
 
 const HomeFurnitureSix = () => {
   return (
@@ -71,6 +74,9 @@ const HomeFurnitureSix = () => {
           textImageStyle={{ height: 250, width: 500 }}
         />
 
+
+     
+
         <section style={{ paddingBottom: "70px", marginTop: "70px" }}>
           <div className="container">
             <div className="welcome-content text-center">
@@ -98,7 +104,10 @@ const HomeFurnitureSix = () => {
           </div>
         </section>
 
-        <TestimonialOne />
+
+           < Visualiser />
+
+        <TestimonialOne spaceTopClass="pt-70" spaceBottomClass="pb-70" />
 
         <CustomerReview />
 
