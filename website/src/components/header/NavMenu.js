@@ -14,7 +14,7 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
           : `main-menu ${menuWhiteClass ? menuWhiteClass : ""}`
       )}
     >
-      <nav> 
+      <nav>
         <ul>
           <li>
             <Link to={process.env.PUBLIC_URL + "/"}>{t("Home")}</Link>
@@ -23,7 +23,6 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
           <li>
             <Link to={process.env.PUBLIC_URL + "/about"}>{t("About")}</Link>
           </li>
-
 
           <li>
             <Link to={process.env.PUBLIC_URL + "/all-product"}>
@@ -65,10 +64,8 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
                       {t(" Woodgrain Laminates")}
                     </Link>
                   </li>
-                  
                 </ul>
               </li>
-
 
               <li>
                 <ul>
@@ -98,13 +95,10 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
                       {t(" Woodgrain Laminates")}
                     </Link>
                   </li>
-                 
-                  
                 </ul>
               </li>
 
-              
-               <li>
+              <li>
                 <ul>
                   <li className="mega-menu-title">
                     <Link to={process.env.PUBLIC_URL + "/product/1"}>
@@ -118,25 +112,21 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
                     </Link>
                   </li>
 
-                   <li>
+                  <li>
                     <Link to={process.env.PUBLIC_URL + "/product/1"}>
                       {t("Solid")}
                     </Link>
                   </li>
 
-
-                   <li>
+                  <li>
                     <Link to={process.env.PUBLIC_URL + "/product/1"}>
                       {t("Woodgrain ")}
                     </Link>
                   </li>
-                  
-                 
                 </ul>
               </li>
 
-
-               <li>
+              <li>
                 <ul>
                   <li className="mega-menu-title">
                     <Link to={process.env.PUBLIC_URL + "/product/1"}>
@@ -144,7 +134,7 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
                     </Link>
                   </li>
 
-                     <li>
+                  <li>
                     <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
                       {t("Abstract Laminates")}
                     </Link>
@@ -155,7 +145,7 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
                     </Link>
                   </li>
 
-                   <li>
+                  <li>
                     <Link to={process.env.PUBLIC_URL + "/shop-grid-filter"}>
                       {t("Plain Laminates")}
                     </Link>
@@ -171,12 +161,10 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
                       {t(" Woodgrain Laminates")}
                     </Link>
                   </li>
-
-                
                 </ul>
               </li>
 
-                <li>
+              <li>
                 <ul>
                   <li className="mega-menu-title">
                     <Link to={process.env.PUBLIC_URL + "/product/1"}>
@@ -184,26 +172,25 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
                     </Link>
                   </li>
 
-                    <li>
+                  <li>
                     <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
                       {t("Abstract Laminates")}
                     </Link>
                   </li>
 
-                   <li>
+                  <li>
                     <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
                       {t("Leather Laminates")}
                     </Link>
                   </li>
 
-                     <li>
+                  <li>
                     <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
                       {t("Metalic Laminates")}
                     </Link>
                   </li>
 
-
-                    <li>
+                  <li>
                     <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
                       {t("Metalic High Gloss")}
                     </Link>
@@ -225,14 +212,10 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
                       {t(" Wood Laminates")}
                     </Link>
                   </li>
-
-
-                
                 </ul>
               </li>
 
-
-                 <li>
+              <li>
                 <ul>
                   <li className="mega-menu-title">
                     <Link to={process.env.PUBLIC_URL + "/product/1"}>
@@ -252,41 +235,24 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
                     </Link>
                   </li>
 
-                   <li>
+                  <li>
                     <Link to={process.env.PUBLIC_URL + "/product/1"}>
                       {t("SoftLine")}
                     </Link>
                   </li>
-                
                 </ul>
               </li>
-
-            </ul> 
+            </ul>
           </li>
 
-          
           <li>
             <Link to={process.env.PUBLIC_URL + "/event"}>
-              {t("Events")}
-              {sidebarMenu ? (
-                <span>
-                  <i className="fa fa-angle-right"></i>
-                </span>
-              ) : (
-                <i className="fa fa-angle-down" />
-              )}
+              {t("Exhibition & media")}
             </Link>
-            <ul className="submenu">
-              <li>
-                <Link to={process.env.PUBLIC_URL + "/event"}>
-                  {t("Exhibition & media")}
-                </Link>
-              </li>
+          </li>
 
-              <li>
-                <Link to={process.env.PUBLIC_URL + "/blog"}>{t("Blog")}</Link>
-              </li>
-            </ul>
+          <li>
+            <Link to={process.env.PUBLIC_URL + "/blog"}>{t("Blog ")}</Link>
           </li>
 
           <li>
